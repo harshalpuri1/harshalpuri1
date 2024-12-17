@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harshalpuri1
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning react.
 
 
 <!---
